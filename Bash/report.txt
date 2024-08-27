@@ -1,0 +1,9 @@
+ Total count of requests: 6
+ Total count of unique requests: 4
+
+ Total count of requests group by methods:
+      5 GET
+      1 POST
+
+ Most popular request URL:
+      3 /index.html
